@@ -1,2 +1,6 @@
 hello world!!!
+<<<<<<< HEAD
 [changes on local]
+=======
+[changed on remote]
+>>>>>>> 47a24a08e3a6e202771d7733bf9c4d7c03a7d76c
